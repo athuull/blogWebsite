@@ -10,8 +10,7 @@ public class ViewControllerMapping implements WebMvcConfigurer {
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
         // Forward /about to /about/index.html
-        registry.addViewController("/about").setViewName("forwards:/about/index.html");
-        registry.addViewController("/posts").setViewName("forwards:/posts/index.html");
-
+        registry.addViewController("/about").setViewName("forward:/about/index.html");
+        registry.addViewController("/posts").setViewName("forward:/posts/index.html");
     }
 }
