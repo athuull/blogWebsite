@@ -11,6 +11,9 @@ public class CustomWebMvcConfigurer implements WebMvcConfigurer {
     public void addViewControllers(ViewControllerRegistry registry) {
         registry.addViewController("/about").setViewName("redirect:/about/");
         registry.addViewController("/about/").setViewName("forward:/about/index.html");
+        registry.addViewController("/about/about-me").setViewName("redirect:/about/about-me/");
+        registry.addViewController("/about/about-me/").setViewName("forward:/about/about-me/index.html");
+
         registry.addViewController("/posts").setViewName("redirect:/posts/");
         registry.addViewController("/posts/").setViewName("forward:/posts/index.html");
 
