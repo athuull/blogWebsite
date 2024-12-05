@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/about-me/</loc>
+    <loc>http://152.67.167.138/about/about-me/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>http://152.67.167.138/about/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blogging/</loc>
+    <loc>http://152.67.167.138/tags/blogging/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/my-blog-pipeline/</loc>
+    <loc>http://152.67.167.138/posts/my-blog-pipeline/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://152.67.167.138/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://152.67.167.138/posts/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://152.67.167.138/tags/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tools/</loc>
+    <loc>http://152.67.167.138/tags/tools/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/workflow/</loc>
+    <loc>http://152.67.167.138/tags/workflow/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://152.67.167.138/categories/</loc>
   </url>
 </urlset>
